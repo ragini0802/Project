@@ -12,5 +12,5 @@ Here, two clients, named ragini and kajal are connected to DHCP, DNS, HTTP, FTP 
 4.HTTP Server configuration is made to retrieve files via httprequest.
 5.Mail Server is configured to send or receive mails. As an example two clients are already added to server so as to share mails. 
 ## How to open real-time operation of Servers and clients
-1.Download and install Cisco Packet Tracer .
-2.run Server_Configuration.pkt file
+1.Download and install Cisco Packet Tracer.          
+2.Run Server_Configuration.pkt file
